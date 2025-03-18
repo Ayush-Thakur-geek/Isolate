@@ -68,12 +68,20 @@
 			<version>3.6.1</version>
 		</dependency>
 
-		<!-- JMathPlot for plotting -->
 		<dependency>
-			<groupId>fr.unilim.iut</groupId>
-			<artifactId>jmathplot</artifactId>
-			<version>1.0.0</version>
+			<groupId>com.github.wendykierp</groupId>
+			<artifactId>JTransforms</artifactId>
+			<version>3.1</version>
+			<classifier>with-dependencies</classifier>
 		</dependency>
+
+		<!-- JMathPlot for plotting -->
+<!--		<dependency>-->
+<!--			<groupId>fr.unilim.iut</groupId>-->
+<!--			<artifactId>jmathplot</artifactId>-->
+<!--			<version>1.0.0</version>-->
+<!--		</dependency>-->
+
 
 	</dependencies>
 
